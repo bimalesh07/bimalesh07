@@ -10,11 +10,11 @@
 ---
 
 ### 👨‍💻 About Me
-[cite_start]A result-oriented **QA Automation Engineer & Full-Stack Developer** based in Bengaluru, India[cite: 2, 6]. I bridge the gap between building highly scalable web ecosystems and breaking them to ensure flawless production quality. 
+A result-oriented **QA Automation Engineer & Full-Stack Developer** based in Bengaluru, India. I bridge the gap between building highly scalable web ecosystems and breaking them to ensure flawless production quality. 
 
-- [cite_start]🚀 Hands-on experience in building structured automation frameworks[cite: 8].
-- [cite_start]🛠️ Proficient in designing and spinning up full-stack application models (Django + React + PostgreSQL) for bulletproof environment verification[cite: 9].
-- [cite_start]⚡ Expert in minimizing regression cycles by 60% through parallel test pipelines and Jenkins CI/CD[cite: 10].
+- 🚀 Hands-on experience in building structured automation frameworks.
+- 🛠️ Proficient in designing and spinning up full-stack application models (Django + React + PostgreSQL) for bulletproof environment verification.
+- ⚡ Expert in minimizing regression cycles by 60% through parallel test pipelines and Jenkins CI/CD.
 
 ---
 
@@ -53,13 +53,13 @@
 
 ### 🚀 Featured Showcase Project
 
-#### [cite_start]🛒 Multi-Vendor E-Commerce Platform & Automation Testing Infrastructure [cite: 21]
-> [cite_start]Developed a realistic multi-vendor marketplace to benchmark full-stack integration and end-to-end automation pipelines[cite: 24].
+#### 🛒 Multi-Vendor E-Commerce Platform & Automation Testing Infrastructure
+> Developed a realistic multi-vendor marketplace to benchmark full-stack integration and end-to-end automation pipelines.
 
-* [cite_start]**The Dev Ecosystem:** Built robust REST endpoints using **Django REST Framework, ReactJS, Redis, Celery, and PostgreSQL** containerized entirely with Docker[cite: 18, 19, 22].
-* [cite_start]**The Automation Suite:** Crafted 20+ automated web UI journeys using **Selenium WebDriver (POM Model)** with **PyTest**[cite: 26].
-* [cite_start]**API Validation:** Rigorously tested 15+ backend endpoints validating core structural JSON validation and JWT tokens[cite: 15, 28].
-* [cite_start]**Data-Driven & Parallel Triggers:** Set up multi-role testing matrix (Admin, Vendor, Customer) powered by **pytest-xdist** for 60% faster runtime, linked directly with **Jenkins CI/CD GitHub hooks**[cite: 27, 30, 31].
+* **The Dev Ecosystem:** Built robust REST endpoints using **Django REST Framework, ReactJS, Redis, Celery, and PostgreSQL** containerized entirely with Docker.
+* **The Automation Suite:** Crafted 20+ automated web UI journeys using **Selenium WebDriver (POM Model)** with **PyTest**.
+* **API Validation:** Rigorously tested 15+ backend endpoints validating core structural JSON validation and JWT tokens.
+* **Data-Driven & Parallel Triggers:** Set up multi-role testing matrix (Admin, Vendor, Customer) powered by **pytest-xdist** for 60% faster runtime, linked directly with **Jenkins CI/CD GitHub hooks**.
 
 ---
 
@@ -77,9 +77,9 @@
 ---
 
 ### 🎓 Certifications
-- [cite_start]**Introduction to Software Testing** — Coursera [cite: 34]
-- [cite_start]**Black Box and White Box Testing** — Coursera [cite: 35]
-- [cite_start]**Introduction to Automated Analysis** — Coursera [cite: 35]
+- **Introduction to Software Testing** — Coursera
+- **Black Box and White Box Testing** — Coursera
+- **Introduction to Automated Analysis** — Coursera
 
 ---
 
