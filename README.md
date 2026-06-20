@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=11,15,20,30&height=180&section=header&text=Bimalesh%20Kumar%20Yadav&fontSize=40&animation=fadeIn&fontAlignY=45" alt="Header Banner" />
-</p>
+# 🚀 Bimalesh Kumar Yadav
+### QA Automation Engineer & Full-Stack Developer (Django / React)
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=bimalesh07&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/badge/Immediate--Joiner-🟢%20Active-success?style=flat-square" alt="Immediate Joiner" />
 </p>
@@ -10,11 +9,11 @@
 ---
 
 ### 👨‍💻 About Me
-A result-oriented **QA Automation Engineer & Full-Stack Developer** based in Bengaluru, India. I bridge the gap between building highly scalable web ecosystems and breaking them to ensure flawless production quality. 
+[cite_start]A result-oriented **QA Automation Engineer & Full-Stack Developer** based in Bengaluru, India[cite: 6]. I bridge the gap between building highly scalable web ecosystems and breaking them to ensure flawless production quality. 
 
-- 🚀 Hands-on experience in building structured automation frameworks.
-- 🛠️ Proficient in designing and spinning up full-stack application models (Django + React + PostgreSQL) for bulletproof environment verification.
-- ⚡ Expert in minimizing regression cycles by 60% through parallel test pipelines and Jenkins CI/CD.
+- [cite_start]🚀 Hands-on experience in building structured automation frameworks[cite: 8].
+- [cite_start]🛠️ Proficient in designing and spinning up full-stack application models (Django + React + PostgreSQL) for bulletproof environment verification[cite: 9, 24].
+- [cite_start]⚡ Expert in minimizing regression cycles by 60% through parallel test pipelines and Jenkins CI/CD[cite: 10, 30].
 
 ---
 
@@ -54,12 +53,12 @@ A result-oriented **QA Automation Engineer & Full-Stack Developer** based in Ben
 ### 🚀 Featured Showcase Project
 
 #### 🛒 Multi-Vendor E-Commerce Platform & Automation Testing Infrastructure
-> Developed a realistic multi-vendor marketplace to benchmark full-stack integration and end-to-end automation pipelines.
+> [cite_start]Developed a realistic multi-vendor marketplace to benchmark full-stack integration and end-to-end automation pipelines[cite: 24].
 
-* **The Dev Ecosystem:** Built robust REST endpoints using **Django REST Framework, ReactJS, Redis, Celery, and PostgreSQL** containerized entirely with Docker.
-* **The Automation Suite:** Crafted 20+ automated web UI journeys using **Selenium WebDriver (POM Model)** with **PyTest**.
-* **API Validation:** Rigorously tested 15+ backend endpoints validating core structural JSON validation and JWT tokens.
-* **Data-Driven & Parallel Triggers:** Set up multi-role testing matrix (Admin, Vendor, Customer) powered by **pytest-xdist** for 60% faster runtime, linked directly with **Jenkins CI/CD GitHub hooks**.
+* [cite_start]**The Dev Ecosystem:** Built robust REST endpoints using **Django REST Framework, ReactJS, Redis, Celery, and PostgreSQL** containerized entirely with Docker[cite: 22, 24].
+* [cite_start]**The Automation Suite:** Crafted 20+ automated web UI journeys using **Selenium WebDriver (POM Model)** with **PyTest**[cite: 26].
+* [cite_start]**API Validation:** Rigorously tested 15+ backend endpoints validating core structural JSON validation and JWT tokens[cite: 15, 28].
+* [cite_start]**Data-Driven & Parallel Triggers:** Set up multi-role testing matrix (Admin, Vendor, Customer) powered by **pytest-xdist** for 60% faster runtime, linked directly with **Jenkins CI/CD GitHub hooks**[cite: 27, 30, 31].
 
 ---
 
@@ -77,9 +76,9 @@ A result-oriented **QA Automation Engineer & Full-Stack Developer** based in Ben
 ---
 
 ### 🎓 Certifications
-- **Introduction to Software Testing** — Coursera
-- **Black Box and White Box Testing** — Coursera
-- **Introduction to Automated Analysis** — Coursera
+- [cite_start]**Introduction to Software Testing** — Coursera [cite: 34]
+- [cite_start]**Black Box and White Box Testing** — Coursera [cite: 35]
+- [cite_start]**Introduction to Automated Analysis** — Coursera [cite: 35]
 
 ---
 
